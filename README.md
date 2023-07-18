@@ -17,7 +17,7 @@
 </details>
 
 ## About the Project
-This project was created as my final team project for the CodeFirstGirls Python and Apps course I participated in. We weregiven three briefs to choose from, and my partner and I chose to create a Top Trumps game. In our last session in the course, we had to present our project. Our project won the best project title, and we were given certificates of distinction.
+This project was created as my final team project for the CodeFirstGirls Python and Apps course I participated in. We were given three briefs to choose from, and my partner and I chose to create a Top Trumps game. In our last session in the course we had to present our project. Our project won the best project title and we were given certificates of distinction.
 
 This project aims to immitate the famous Top Trumps game using external, third-party API's. During the game, the user is presented a card from which they have to choose a stat. The stat is compared against the same stat on the CPU's card, and the higher stat wins the round and gains a point. At the end, the player with the highest number of points wins. Previous game history with timestamps and details can be viewed.
 
